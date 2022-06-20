@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/
 
 # Project Name
 
@@ -10,9 +10,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Ruby on Rails 7 
+- RSspec
 
 ## Live Demo
 
@@ -21,11 +21,27 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Road map**
+
+- git flow
+  - development < feature
+- rails new
+  - postgres
+  - rspec  
+- Add test to it
+  - Unit tests
+    - Validations
+    - Associations (if required)
+  - Controller test 
+    - index
+- Add devise
+  - Devise generic tests
+- Add necesary gems 
+- Generate models
+- Run migrations 
 
 
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
@@ -49,17 +65,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
