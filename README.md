@@ -23,21 +23,4 @@ Things you may want to cover:
 
 * ...
 
-## ROAD MAP ##
-- git flow
-  - development < feature
-- rails new
-  - postgres
-  - rspec  
-- Add test to it
-  - Unit tests
-    - Validations
-    - Associations (if required)
-  - Controller test 
-    - index
-- Add devise
-  - Devise generic tests
-- Add necesary gems 
-- Generate models
-- Run migrations 
 
